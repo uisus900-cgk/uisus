@@ -1,2 +1,7 @@
 # uisus
-数据库
+include<stdio.h>
+int main()
+{
+printf("hellow");
+return 0;
+}
